@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Uppercut</id>
+    <version>$version$</version>
+    <title>Uppercut</title>
+    <authors>Lionell Pack</authors>
+    <owners>Lionell Pack</owners>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Give your database an Uppercut!</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Lionell Pack 2015</copyright>
+    <tags>Schema Database DevOps</tags>
+  </metadata>
+</package>
